@@ -1,0 +1,9 @@
+
+[functions.connect-strava]
+verify_jwt = false
+
+[functions.import-strava-activity]
+verify_jwt = false
+
+[functions.strava-webhook]
+verify_jwt = false
